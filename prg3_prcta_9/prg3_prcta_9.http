@@ -1,0 +1,6 @@
+@prg3_prcta_9_HostAddress = http://localhost:5156
+
+GET {{prg3_prcta_9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
